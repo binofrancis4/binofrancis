@@ -5,14 +5,14 @@
 I'm Bino from India, and I do Data Analyst and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 ##Skills and Experience
-* NodeJS
-* REACT 
-* MongoDB
-* Express
-* JavaScript
-* Postman
-* material-ui
-* HTML / CSS
+* 🚣‍♀️NodeJS
+* 🚣‍♀️REACT 
+* 🏋️MongoDB
+* 🦖Express
+* ❤️JavaScript
+* 💕Postman
+* 😵‍💫material-ui
+* 🪶HTML / CSS
 
 - 🔭 I’m currently working on Xentity - Geoplatform.gov 
 - 🌱 I’m currently learning MERN 
