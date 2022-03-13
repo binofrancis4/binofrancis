@@ -1,10 +1,18 @@
-### Hi there 👋, Bino Francis
+### Hi there 👋, I'm Bino Francis
 #### Design and Development
 ![Design and Development](https://magenticians.com/wp-content/uploads/2016/11/How-you-can-hire-a-magento-developer-Banner.jpg)
 
 I'm Bino from India, and I do Data Analyst and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: NodeJS/ REACT / MongoDB/Express/ JavaScript /HTML / CSS
+##Skills and Experience
+* NodeJS
+* REACT 
+* MongoDB
+* Express
+* JavaScript
+* Postman
+* material-ui
+* HTML / CSS
 
 - 🔭 I’m currently working on Xentity - Geoplatform.gov 
 - 🌱 I’m currently learning MERN 
